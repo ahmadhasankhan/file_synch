@@ -7,7 +7,7 @@ and share files. Admins can manage users, groups and permissions.
 
 Requirements
 ------------
-The requirements for running Boxroom are:
+The requirements for running File Synch are:
 
  * Ruby 1.9.3 or newer
  * Rails 4.2.5
@@ -18,7 +18,7 @@ Installation
 ------------
 Follow these steps:
 
- 1. Extract, checkout or clone Boxroom into a new folder
+ 1. Extract, checkout or clone File Synch into a new folder
  2. `cd` into the new folder
  3. Install necessary gems: `$ bundle install`
  4. Run the install script: `$ bundle exec rake install`
